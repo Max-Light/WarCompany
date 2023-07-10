@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DCE5542A-4BAD-3AD3-B169-10AAFE99534B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "WarCompany",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
